@@ -1,5 +1,5 @@
-import petsArr from '/js/petsArr.js';
-import openModal from '/js/script.js';
+import petsArr from '../js/petsArr.js';
+import openModal from '../js/script.js';
 
 
 // SLIDER

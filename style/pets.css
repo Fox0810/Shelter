@@ -374,7 +374,7 @@ body.open-modal {
 
 footer {
     max-width: 100%;
-    background: url(/images/footer-background.png);
+    background: url(images/footer-background.png);
     background-repeat: no-repeat;
     background-size: cover;
 }

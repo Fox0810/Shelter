@@ -637,7 +637,7 @@ section.donation .container .donation-content h5 {
 
 footer {
     max-width: 100%;
-    background: url(/images/footer-background.png);
+    background: url(images/footer-background.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -707,7 +707,7 @@ footer .container .footer-img img{
 @media (max-width: 1279px) {
 
     .start-screen {
-        background: url('/images/start-screen-background-768.png');
+        background: url('images/start-screen-background-768.png');
         background-repeat: no-repeat;
         background-position: center 0px;
         background-size: cover;
@@ -1289,7 +1289,7 @@ footer .container .footer-img img{
         padding-top: 15px;
     }
 
-    footer .container .footer-contacts:nth-child(2) .block-info:nth-child(3) a font: ;{
+    footer .container .footer-contacts:nth-child(2) .block-info:nth-child(3) a font {
         padding-top: 25px;
         padding-right: 25px;
     }
